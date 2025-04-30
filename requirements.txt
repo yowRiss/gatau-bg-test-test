@@ -1,0 +1,4 @@
+gspread
+oauth2client
+sentence-transformers
+python-dotenv
